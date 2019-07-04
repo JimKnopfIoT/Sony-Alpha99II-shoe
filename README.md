@@ -1,4 +1,4 @@
-# Sony-Alpha99II-shoe
+# Sony Alpha 99 II shoe
 3D printable shoe for Sony Alpha 99 II Camera
 
 ## View
